@@ -1,6 +1,6 @@
-# Hi there, I'm Kaveendra Imbulana
+# Hi there, I'm Kavee
 #### IT Delivery Engineer | Platform Delivery, DevOps, Agentic AI &  Cloud Systems Architecture
-
+---
 IT Delivery & Platform Engineer with **18+ years of enterprise experience** spanning Platform Implementation, AWS cloud infrastructure, Kubernetes orchestration,Telecommunication,  and AI-driven automation. Specialized in cutting operational toil, driving observability, and optimizing microservice pipelines.
 ---
 
