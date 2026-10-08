@@ -1,7 +1,7 @@
 # Hi there, I'm Kavee
 #### IT Delivery Engineer | Platform Delivery, DevOps, Agentic AI &  Cloud Systems Architecture
 ---
-Experienced IT Delivery & Platform Engineer with 18+ years of enterprise experience spanning Platform Implementation, AWS cloud infrastructure, Kubernetes orchestration,Telecommunication,  and AI-driven automation. Specialized in cutting operational toil, driving observability, and optimizing microservice pipelines.
+Experienced IT Delivery Engineer specialising in Cloud Infrastructure, Platform Delivery, Site Reliability, Telecommunications, and Systems Engineering with over 18 years of experience across high-availability environments. Proven at optimising system performance, reducing operational toil, and boosting platform uptime through AWS infrastructure, Container Orchestration, Linux administration, Python/Bash/IaC automation, and AI integration. Seeking to contribute my skills to deliver scalable, resilient cloud infrastructure and innovative software solutions.
 
 ### Highlighted Project
 
